@@ -9,6 +9,7 @@ python = "^3.8"
 discord = "^1.7.3"
 python-dotenv = "^0.18.0"
 Flask = "^2.0.1"
+utils = "^1.0.1"
 
 [tool.poetry.dev-dependencies]
 
